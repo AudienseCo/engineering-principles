@@ -21,7 +21,7 @@ For each principle definition, we have the following sections:
 
 
 
-## **[Ask Why](#ask-why)**
+## **[Ask Why](#ask-why-1)**
 
 - Connect work to business outcomes.
 - Understand the real problem being solved.
@@ -31,7 +31,7 @@ For each principle definition, we have the following sections:
 
 - Unsure of stakeholders' needs or the problem being solved.
 
-## **[Take Risks](#take-risks)**
+## **[Take Risks](#take-risks-1)**
 
 - Encourage experimentation and learning from failure.
 - Ensure risks are taken with the proper safety net.
@@ -51,7 +51,7 @@ For each principle definition, we have the following sections:
 
 - Multiple initiatives are being tackled simultaneously, large commits with unrelated changes, working in isolation, and frequent multitasking.
 
-## **[Always Ready to Ship](#always-ready-to-ship)**
+## **[Always Ready to Ship](#always-ready-to-ship-1)**
 
 - Be prepared to deploy at any time.
 - Aim for early feedback and outcome measurement.
@@ -61,7 +61,7 @@ For each principle definition, we have the following sections:
 
 - Starting new services without integration, waterfall-like technical tasks, and long periods without real user feedback.
 
-## **[Stay Sharp](#stay-sharp)**
+## **[Stay Sharp](#stay-sharp-1)**
 
 - Reduce cognitive load through various means.
 - Invest in technical skills and understand the business domain.
@@ -71,7 +71,7 @@ For each principle definition, we have the following sections:
 
 - Repeatedly retrying tests, spending excessive time on manual tasks, and recurring unresolved challenges.
 
-## **[Software is a Means to Achieve an Outcome](#software-is-a-means-to-achieve-an-outcome)**
+## **[Software is a Means to Achieve an Outcome](#software-is-a-means-to-achieve-an-outcome-1)**
 
 - Recognize software as both an asset and a liability.
 - Defer commitments and make cost-effective decisions.
@@ -81,7 +81,7 @@ For each principle definition, we have the following sections:
 
 - Writing complex unvalidated code, not cleaning obsolete code, and introducing irrelevant technologies.
 
-## **[Courage and Respect](#courage-and-respect)**
+## **[Courage and Respect](#courage-and-respect-1)**
 
 - Prioritize the values of courage and respect in decision-making.
 - Courage is about upholding principles, even against popular opinions.
